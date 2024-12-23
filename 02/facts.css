@@ -1,0 +1,17 @@
+.fact1 {
+    color: blue;
+}
+.fact2 {
+    color: green;
+}
+.fact3 {
+    color: orange;
+}
+ul {
+    list-style: square;
+    padding-left: 20px;
+}
+h1 {
+    text-align: center;
+    color: purple;
+}
