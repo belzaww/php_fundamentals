@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f9;
+}
+
+h1, p {
+    text-align: center;
+    margin: 20px;    
+}
+h2, h1 {
+    color: cadetblue;
+    
+}
+span {
+    font-style: italic;
+}
+ul {
+    background-color: #ececec;
+    border: 2px solid cadetblue;
+}
+li {
+    list-style: square;
+
+}
+li:hover {
+    color: red;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    color: darkblue;
+}
