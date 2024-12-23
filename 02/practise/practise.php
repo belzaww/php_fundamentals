@@ -13,7 +13,7 @@
 
     <?php
     //List of my favourite films
-        echo "<h2>Here is the list of my favourite films</h2>";
+        echo "<h2>Here is the list of my favourite films:</h2>";
        
         echo"
         <ul>
